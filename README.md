@@ -1,2 +1,4 @@
 # hello-world
-sample
+
+i am ahmad abdussalam ahmad
+am intrested in learning programming
